@@ -1,10 +1,10 @@
 <template>
-  <section id="about" class="min-h-screen px-8 py-32 flex flex-col flex-wrap items-start justify-center bg-orange-100">
+  <section id="about" class="min-h-screen px-4 py-32 flex flex-col flex-wrap items-start justify-center bg-orange-100">
     <header class="basis-full mb-8">
       <h1 class="text-7xl text-orange-800 font-extrabold">About</h1>
     </header>
 
-    <div class="content max-w-screen-lg w-1/2">
+    <div class="content max-w-screen-lg lg:w-1/2">
       <article class="text-xl mb-8">
         <p>
           An

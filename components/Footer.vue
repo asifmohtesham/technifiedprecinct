@@ -5,7 +5,7 @@
     &VerticalLine;
     &nbsp;
     <span class="font-bold">
-      Technified Precinct LLC
+      TechZoneX LLC FZ
     </span>
   </footer>
 </template>
